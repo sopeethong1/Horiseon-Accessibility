@@ -8,4 +8,4 @@ In this exercise, I refactored the provided HTML and CSS starter code from the H
 
 ## Screenshots
 Screenshots to application: 
-[Deployed Site Screenshot](assets\images\screenshot1.PNG)
+[Deployed Site Screenshot](assets\Screenshot\screenshot_final_homework1.png)
