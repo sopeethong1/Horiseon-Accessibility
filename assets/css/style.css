@@ -44,7 +44,7 @@ footer{
     text-align: center;
     }
 
-/* Class Selector*/
+/* Class Selectors*/
 .box {
     margin-bottom: 20px;
     padding: 50px;
@@ -63,7 +63,6 @@ h1 {
  }
 
  h3 {
-    /* consolidated benefit-lead h3, benefit-brand h3, and benefit-cost h3 and changed selector name to h3*/
     margin-bottom: 10px;
     text-align: center;
 }
@@ -115,18 +114,15 @@ p {
 }
 
 .side-icons {
-    /* consolidated benefit-lead, benefit-brand, and benefit-cost and changed selector name to aside*/
     margin-bottom: 32px;
     color: #ffffff;
 }    
 
 .side-icons img {
-    /* consolidated benefit-lead img, benefit-brand img, and benefit-cost img and changed selector name to benefits img*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 .box img {
      
