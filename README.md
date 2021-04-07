@@ -8,6 +8,6 @@ In this exercise, I refactored the provided HTML and CSS starter code from the H
 
 ## Screenshots
 Screenshots to application: 
-[Deployed Site Screenshot]
+[Screenshot]
 (https://user-images.githubusercontent.com/78446989/111017949-4d419f00-8384-11eb-931e-35726173a560.png)
 
