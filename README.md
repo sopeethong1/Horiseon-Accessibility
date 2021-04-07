@@ -7,8 +7,6 @@ In this exercise, I refactored the provided HTML and CSS starter code from the H
 [Deployed Site](https://sopeethong1.github.io/Horiseon-Accessibility/)
 
 ## Screenshots
-
-[Screenshot]
 ![image](https://user-images.githubusercontent.com/78446989/113809551-65fc6500-9736-11eb-967c-85de923b28b4.png)
 
 
